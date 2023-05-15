@@ -30,10 +30,10 @@ Mind mapping software is a tool that allows users to visually organize and struc
  
  <h2>💻 Built with</h2>
 
-Technologies used in the project:
+Technologies used:
 
-*   JAVA
-*   JAVA
+*   Xmind Tools
+*   Lightshot (for screenshot)
 
 
 
