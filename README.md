@@ -27,6 +27,13 @@ Mind mapping software is a tool that allows users to visually organize and struc
   
 ![Test Plan](https://github.com/shantokumarsaha123/SQA-MindMappingReport-XmindTool/assets/122052172/3bf47fd6-5ca1-44f0-9a96-742886e1449b)
 
+ 
+ <h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   JAVA
+*   JAVA
 
 
 
