@@ -8,6 +8,7 @@ Mind mapping software is a tool that allows users to visually organize and struc
 <h2>Mind Mapping Screenshots:</h2>
 
 <h3> Qtec Website <h3>
+ 
 ![A1-Qtec Website](https://github.com/shantokumarsaha123/SQA-MindMappingReport-XmindTool/assets/122052172/7a588d5f-feba-4bb6-b53e-3b106dd855a6)
  
  <h3> Software Testing Process <h3>
