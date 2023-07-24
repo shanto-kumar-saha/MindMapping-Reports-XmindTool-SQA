@@ -1,4 +1,5 @@
-# SQA-MindMappingReport-XmindTool
+<h1 id="title" align="center">Mind Mapping Report (XmindTool)</h1>
+
 
 <p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/SQA-MindMappingReport-XmindTool/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
