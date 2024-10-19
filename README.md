@@ -4,7 +4,7 @@
 <p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/SQA-MindMappingReport-XmindTool/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 ## 📝 Description 
-Mind mapping software is a tool that allows users to visually organize and structure information, thoughts, and ideas. It shows a visual representation of the testing function in its entirety and provides a creative way to logically plan the testing. In this repository, I have created various features Mind Mapping by using Xmind tools.
+Mind mapping software allows users to visually organize and structure their thoughts and ideas. In this repository, I have developed various mind maps using Xmind to creatively plan and represent testing functions.
 
 <h2>🧐 Mind Mapping Screenshots:</h2>
 
